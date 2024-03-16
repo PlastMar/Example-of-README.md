@@ -13,7 +13,7 @@ Welcome to my awesome test project! 😀
 
 #### Installation
 To install this project, simply follow these steps:
-1. Donwload the File
+1. Download the File
 2. Extract the File
 3. Run the .exe
 4. Enjoy
